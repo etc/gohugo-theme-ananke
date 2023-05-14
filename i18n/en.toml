@@ -47,3 +47,9 @@ other = "{{ .Count }} words"
 
 [pageTitle]
 other = "{{ .Name }} page"
+
+[image]
+other = "Image"
+
+[photographer]
+other = "Zhang Kechun"
