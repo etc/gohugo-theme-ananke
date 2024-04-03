@@ -38,7 +38,7 @@ other = "标签为“{{ .Title }}”的页面如下"
 other = "{{ .Name }} 页"
 
 [image]
-other = "图像"
+other = "主页图像"
 
 [photographer]
 other = "张克纯"
