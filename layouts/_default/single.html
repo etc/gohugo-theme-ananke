@@ -5,7 +5,7 @@
 
 {{ define "main" }}
   {{ $section := .Site.GetPage "section" .Section }}
-  <article class="flex-l flex-wrap justify-between mw8 center ph6">
+  <article class="flex-l flex-wrap justify-between mw8 center ph5">
     <header class="mt4 w-100">
       {{ with .Params.author | default .Site.Params.author }}
       <p class="tracked">
